@@ -1,4 +1,4 @@
-<h1> TakeABreak</h1>
+<h1> Digidoro</h1>
 <h2>An digital pomodoro for taking breaks</h3>
 <h3>Directions</h3>
 <p>
