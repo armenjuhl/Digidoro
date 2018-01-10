@@ -1,5 +1,5 @@
 <h1> TakeABreak</h1>
-<h2>An app that reminds you to take a break</h3>
+<h2>An digital pomodoro for taking breaks</h3>
 <h3>Directions</h3>
 <p>
 This app will remind you to take a break every 20 minutes by playing a great song by Stephan Marley. Follow the directions below to set the app up. You can also edit the time and the video that is played by following the directions below
